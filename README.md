@@ -1,1 +1,1 @@
-https://github.com/Apurvastha/Portfolio
+https://apurvastha.github.io/Portfolio/
